@@ -31,14 +31,17 @@ This project is intended as a learning tool and can be used as a sample project 
 
 ***
 ## Screenshots
-![Screenshot 2023-07-25 210844]()
-![Screenshot 2023-07-25 211309]()
+![Screenshot 2023-07-25 210844](https://github.com/dhruvaop/Logic-Labs-Ed-Project/assets/71749153/74a19fe3-2965-4115-ab5a-3c74cd8a39c8)
+
+![Screenshot 2023-07-25 211309](https://github.com/dhruvaop/Logic-Labs-Ed-Project/assets/71749153/d5ac6fe3-987f-48ae-af1f-360a27a24a59)
 <details>
+  
   <summary>More screenshots</summary>
   
-![Screenshot 2023-07-25 211451]()
+![Screenshot 2023-07-25 211451](https://github.com/dhruvaop/Logic-Labs-Ed-Project/assets/71749153/5363112f-d8f5-4e68-b682-ed23e7a5213f)
 ![image]()
 </details>
+
 
 ***
 
