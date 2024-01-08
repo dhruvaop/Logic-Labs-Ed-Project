@@ -1,5 +1,10 @@
 # Logic Labs Ed.
 
+<p align="center">
+  <img src="https://github.com/dhruvaop/Logic-Labs-Ed-Project/assets/71749153/67ea0dbb-078d-4080-939d-7fbc6d155107" alt="Logo">
+</p>
+
+
 Logic Labs Ed is an ED Tech (Education Technology) web application developed using the MERN stack.
 
 ## Note
