@@ -39,7 +39,7 @@ This project is intended as a learning tool and can be used as a sample project 
   <summary>More screenshots</summary>
   
 ![Screenshot 2023-07-25 211451](https://github.com/dhruvaop/Logic-Labs-Ed-Project/assets/71749153/5363112f-d8f5-4e68-b682-ed23e7a5213f)
-![image]()
+
 </details>
 
 
