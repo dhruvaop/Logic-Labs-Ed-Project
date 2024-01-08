@@ -1,16 +1,14 @@
-# Logic Labs Ed is an ED Tech (Education Technology) web application developed using the MERN stack.
-
+<div align="center">
+  <h1>Logic Labs Ed</h1>
+</div>
 <p align="center">
   <img src="https://github.com/dhruvaop/Logic-Labs-Ed-Project/assets/71749153/67ea0dbb-078d-4080-939d-7fbc6d155107" alt="Logo">
 </p>
 
 
-
-
 ## Note
 
-This project is intended as a learning tool and can be used as a sample project for educational or personal projects.
-
+- It is an ED Tech (Education Technology) web application developed using the MERN stack.
 
 ***
 ## Features
