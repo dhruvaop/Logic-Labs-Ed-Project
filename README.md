@@ -1,6 +1,4 @@
-<div align="center">
-  <h1>Logic Labs Ed</h1>
-</div>
+
 <p align="center">
   <img src="https://github.com/dhruvaop/Logic-Labs-Ed-Project/assets/71749153/67ea0dbb-078d-4080-939d-7fbc6d155107" alt="Logo">
 </p>
